@@ -1,0 +1,52 @@
+@font-face {
+    font-family: fuente;
+    src: url('/html/font/Hallloween.ttf');
+}
+
+body {
+    width: 100%;
+    overflow: hidden;
+    min-width:100%;
+    text-align: center;
+    right: 1vh;
+}
+
+#todo {
+    position: absolute;
+    bottom: 5vh;
+}
+
+#segundo {
+    font-family: fuente;
+    text-align: center;    
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    height: 100px;
+    margin-top: 920px;
+    background-image: url('https://gifmaniacos.es/wp-content/uploads/2017/10/calabaza-halloween-gif-gifmaniacos.es-17.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    margin-left: 838px;
+    box-shadow: rgba(228, 226, 226, 0.2);
+    border-radius: 15px;
+}
+
+
+#cooldown {
+    font-family: fuente;
+    text-align: center;    
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    height: 100px;
+    margin-top: 800px;
+    background-image: url('https://gifmaniacos.es/wp-content/uploads/2017/10/calabaza-halloween-gif-gifmaniacos.es-17.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 400px;
+    margin-left: 838px;
+    box-shadow: rgba(228, 226, 226, 0.2);
+    border-radius: 15px;
+}
